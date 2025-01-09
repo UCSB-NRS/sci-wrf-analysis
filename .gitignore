@@ -1,2 +1,5 @@
 # Ignore all archived file
 **/_archive
+
+# Ignore .DS_Store - it's a mac-specific file used for Finder
+**/.DS_Store
