@@ -1,0 +1,13 @@
+,site,variable,correlation,bias,rmse,mae,type
+0,Sauces Canyon,air temperature (C),0.87,0.13,2.42,1.75,quantile mapped
+0,Sauces Canyon,relative humidity (%),0.84,-0.05,14.27,9.9,quantile mapped
+0,Sauces Canyon,wind speed (m/s),0.58,-0.07,1.28,0.95,quantile mapped
+0,Sauces Canyon,wind direction (deg),0.55,4.48,90.51,47.92,quantile mapped
+0,Upper Embudo Canyon,air temperature (C),0.89,-0.16,2.69,1.99,quantile mapped
+0,Upper Embudo Canyon,relative humidity (%),0.85,-1.84,15.86,10.97,quantile mapped
+0,Upper Embudo Canyon,wind speed (m/s),0.64,0.01,0.94,0.7,quantile mapped
+0,Upper Embudo Canyon,wind direction (deg),0.62,-3.1,78.22,49.29,quantile mapped
+0,NRS SCI,air temperature (C),0.9,0.06,2.4,1.81,quantile mapped
+0,NRS SCI,relative humidity (%),0.82,-0.22,16.19,11.37,quantile mapped
+0,NRS SCI,wind speed (m/s),0.61,-0.01,1.92,1.48,quantile mapped
+0,NRS SCI,wind direction (deg),0.25,8.35,133.29,93.23,quantile mapped
