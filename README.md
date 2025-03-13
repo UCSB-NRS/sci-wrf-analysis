@@ -7,14 +7,15 @@ __WRF Coastal Low Clouds Comparison using GOES Satellite Dataset__:
 - [Monthly Aggregated Frequency Figures - 1996-2017](https://drive.google.com/drive/folders/1tzEwrGnCRC0Ht0t4o9Azcv7LLSvajjDK?usp=sharing)
 - [Yearly Aggregated Frequency Figures - 1996-2017](https://drive.google.com/drive/folders/1OHOLuQCc5ZVLK1tqfUw77sgbSJKhRNU1?usp=sharing)
 
-__Datasets:__. 
-GOES Coastal Low Clouds - 1km resolution, 1996-2019, daylight hours. Provided by: 
+__Datasets:__  
+
+_GOES Coastal Low Clouds - 1km resolution, 1996-2019, daylight hours._ Provided by: 
 - Clemesha, R. E, et al. (2021). A high-resolution record of coastal clouds and fog and their role in plant distributions over San Clemente Island, California. Environmental Research Communications, 3(10), 105003. DOI 10.1088/2515-7620/ac2894  
 
-1km Resolution Downscaled WRF Model Outputs: 
+_1km Resolution Downscaled WRF Model Outputs:_  
 - Provided UCSB CLIVAC Lab  
 
-Observation weather station data, including fog harp fog drip data:
+_Observation weather station data, including fog harp fog drip data:_  
 - Provided by Chris Still (working on publishing this)
 
 
