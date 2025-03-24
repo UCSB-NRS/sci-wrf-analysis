@@ -2,7 +2,7 @@
 Using a combination of remote sensing data and weather station observational data, we are working to evaluate a 1km resolution downscaled Weather Research and Forecasting (WRF) model's skill in simulating low clouds and fog. 
 
 __Highlighted Notebooks:__
-[WRF / GOES Low Cloud Comparison (wrf-python clc)](./notebooks/wrf-goes-low-clouds.ipynb)
+[WRF / GOES Low Cloud Comparison (wrf-python clc)](./notebooks/wrf-goes-low-clouds.ipynb)  
 [WRF / GOES Low Cloud Comparison (WRF CLDFRA)](./notebooks/wrf-goes-cldfra-low-clouds.ipynb)
 - [Presentation of Results](https://docs.google.com/presentation/d/1s7BILaJ4PMVKDwkKGN6IyHNXfBf6qOqc/edit?usp=sharing&ouid=114113173409564571538&rtpof=true&sd=true)   
 
@@ -16,15 +16,15 @@ __Figures generated from these datasets:__
 - [Monthly Aggregated Frequency Figures - 1996-2017](https://drive.google.com/drive/folders/1tzEwrGnCRC0Ht0t4o9Azcv7LLSvajjDK?usp=sharing)
 - [Yearly Aggregated Frequency Figures - 1996-2017](https://drive.google.com/drive/folders/1OHOLuQCc5ZVLK1tqfUw77sgbSJKhRNU1?usp=sharing)
 
-__Datasets:__  
+## Datasets:
 
-_GOES Coastal Low Clouds - 1km resolution, 1996-2019, daylight hours._  
+__GOES Coastal Low Clouds - 1km resolution, 1996-2019, daylight hours__     
 Clemesha, R. E, et al. (2021). A high-resolution record of coastal clouds and fog and their role in plant distributions over San Clemente Island, California. Environmental Research Communications, 3(10), 105003. DOI 10.1088/2515-7620/ac2894  
 
-_1km Resolution Downscaled WRF Model Outputs:_  
+__1km Resolution Downscaled WRF Model Outputs:__  
 Provided UCSB CLIVAC Lab  
 
-_Observational weather station data, including fog harp fog drip data:_  
+__Observational weather station data, including fog harp fog drip data:__    
 Provided by Chris Still (working on publishing this)
 
 
