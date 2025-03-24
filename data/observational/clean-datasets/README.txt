@@ -1,1 +1,0 @@
-These data were created from the raw datasets in sci-fog-analysis using the qc scripts. 
