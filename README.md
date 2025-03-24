@@ -1,7 +1,7 @@
 # Assessment of WRF Skill in Simulating Low Clouds and Fog for Santa Cruz Island
 Using a combination of remote sensing data and weather station observational data, we are working to evaluate a 1km resolution downscaled Weather Research and Forecasting (WRF) model's skill in simulating low clouds and fog. 
 
-__Highlighted Notebooks:__
+__Highlighted Notebooks:__    
 [WRF / GOES Low Cloud Comparison (wrf-python clc)](./notebooks/wrf-goes-low-clouds.ipynb)  
 [WRF / GOES Low Cloud Comparison (WRF CLDFRA)](./notebooks/wrf-goes-cldfra-low-clouds.ipynb)
 - [Presentation of Results](https://docs.google.com/presentation/d/1s7BILaJ4PMVKDwkKGN6IyHNXfBf6qOqc/edit?usp=sharing&ouid=114113173409564571538&rtpof=true&sd=true)   
