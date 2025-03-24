@@ -4,14 +4,6 @@
 # Ignore .DS_Store - it's a mac-specific file used for Finder
 **/.DS_Store
 
-# Ignore spatial analysis scripts - need to check with Charles if I can host them here
-scripts
-
 # Ignore data 
 data
 
-# Ignore supporting items
-supporting
-
-# Ignore outputs figs
-outputs
