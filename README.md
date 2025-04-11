@@ -18,7 +18,7 @@ __Figures generated from these datasets:__
 
 ## Datasets:
 
-__GOES Coastal Low Clouds - 1km resolution, 1996-2019, daylight hours__     
+__GOES Coastal Low Clouds - 1km resolution, 1996-2019, daylight hours:__     
 Clemesha, R. E, et al. (2021). A high-resolution record of coastal clouds and fog and their role in plant distributions over San Clemente Island, California. Environmental Research Communications, 3(10), 105003. DOI 10.1088/2515-7620/ac2894  
 
 __1km Resolution Downscaled WRF Model Outputs:__  
@@ -27,4 +27,8 @@ Provided UCSB CLIVAC Lab
 __Observational weather station data, including fog harp fog drip data:__    
 Provided by Chris Still (working on publishing this)
 
+
+## To Do:   
+- Add index README file to each directory
+- Flesh out results in main README with figures 
 
