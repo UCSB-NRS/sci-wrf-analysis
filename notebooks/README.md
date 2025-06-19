@@ -1,0 +1,1 @@
+Note that the notebooks in this directory are the primary analyses that the figures in the manuscript came from. The notebooks in the subdirectory "additional-analyses" were created in the exploratory phase, but do not contain work directly used by the manuscript. 
