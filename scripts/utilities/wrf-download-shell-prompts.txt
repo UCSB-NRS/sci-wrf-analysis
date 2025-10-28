@@ -1,0 +1,6 @@
+# This script will download the specified files to the current directory. It was used to pull the WRF data for specific days used as case studies. 
+
+scp patmccornack@great.eri.ucsb.edu:"/home/perseverance-clivac/wrf_sbarbara/wrfout/2009/wrfout_d04_2008-08-17_00:00:00" .
+scp patmccornack@great.eri.ucsb.edu:"/home/perseverance-clivac/wrf_sbarbara/wrfout/2009/wrfout_d04_2008-08-18_00:00:00" .
+scp patmccornack@great.eri.ucsb.edu:"/home/perseverance-clivac/wrf_sbarbara/wrfout/2009/wrfout_d04_2008-08-24_00:00:00" .
+scp patmccornack@great.eri.ucsb.edu:"/home/perseverance-clivac/wrf_sbarbara/wrfout/2009/wrfout_d04_2008-08-25_00:00:00" .
