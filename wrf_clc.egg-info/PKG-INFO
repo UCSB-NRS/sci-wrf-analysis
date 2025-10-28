@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: wrf_clc
+Version: 0.1.0
+Summary: Evaluation of WRF simulation of coastal low clouds and fog
+Requires-Dist: numpy
+Requires-Dist: xarray
+Requires-Dist: pandas
