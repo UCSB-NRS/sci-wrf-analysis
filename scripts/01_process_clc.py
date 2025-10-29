@@ -54,7 +54,7 @@ processed_outfpath = root_dir / 'data' / '03_processed' / 'goes-wrf-clc-4km-bina
 
 ## Process 4km data
 #dp.join_wrf_goes(wrf_fpath, goes_fpath, interim_clc_fpath, resolution='4_km')
-#dp.get_roi_bounds(interim_clc_fpath, roi_bounds_fpath)   # !! SE Ocean currently broken
+#dp.get_roi_bounds(interim_clc_fpath, roi_bounds_fpath) 
 #dp.calc_cloudfra_threshold(interim_clc_fpath, roi_bounds_fpath, cldfra_threshold_fpath)
 dp.calc_binary_clc(interim_clc_fpath, cldfra_threshold_fpath, processed_outfpath, 
                    resolution='4_km')

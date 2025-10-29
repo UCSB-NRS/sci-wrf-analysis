@@ -178,7 +178,7 @@ for k in range(ntimes):
                           str( df.index.minute.values[0] ).zfill(2) ] )
   savename  =  ''.join(['dom2.wind10m.', str(k+1).zfill(2),  figtype ])  
 #  savename  =  ''.join(['wrfout-wsp-', 'sb-', str(k).zfill(2), 'h', figtype ])  
-  savepath  = root_dir / "outputs" / "figures" / "wrf-clouds-sci" / "wrf-wind" # Where to save figures to 
+  savepath  = root_dir / "outputs" / "figures" / "additional-analyses" / "wrf-clouds-sci" / "wrf-wind" # Where to save figures to 
   plt.savefig(savepath+savename, bbox_inches='tight', dpi=140)
   plt.close()
   print(savename)
